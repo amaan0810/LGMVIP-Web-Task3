@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;900&display=swap');
+
+.logo{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: black;
+    margin-bottom: 15px;
+}
+h1{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 900;
+    text-align: center;
+}
+.h{
+    margin: 25px;
+}
+.name{
+    border-radius: 5px;
+    border: 2px solid  rgb(80, 80, 213);
+    padding: 7px;
+    width: 190px;
+    height: 19px;
+}
+.mail{
+    border-radius: 5px;
+    border: 2px solid  rgb(80, 80, 213);
+    padding: 7px;
+    width: 190px;
+    height: 19px;
+}
+.website{
+    border-radius: 5px;
+    border: 2px solid  rgb(80, 80, 213);
+    padding: 7px;
+    width: 190px;
+    height: 19px;
+}
+.img{
+    border-radius: 5px;
+    border: 2px solid  rgb(80, 80, 213);
+    padding: 7px;
+    width: 190px;
+    height: 19px;
+}
+.b1{
+    display: flex;
+    justify-content: space-between;
+    width: 327px;
+    margin: 25px 82px 25px 26px;
+    margin-top: 5px;
+    align-items: baseline;
+}
+.b2{
+    display: flex;
+    justify-content: space-between;
+    width: 327px;
+    margin: 25px 82px 25px 26px;
+    align-items: baseline;
+}
+.b3{
+    display: flex;
+    justify-content: space-between;
+    width: 327px;
+    margin: 25px 82px 25px 26px;
+    align-items: baseline;
+}
+.b4{
+    display: flex;
+    justify-content: space-between;
+    width: 291px;
+    margin: 25px 82px 25px 26px;
+    align-items: baseline;
+}
+.ch{
+    position: relative;
+    left: 22px;
+}
+.ch1{
+    display: inline;
+    position: absolute;
+    left: 116px;
+}
+.chm{
+    margin: 23px 0px 23px 0px;
+}
+.ch2{
+    margin: 3px 23px 3px 23px;
+}
+.chm2{
+    margin: 4px 2px 4px 96px;
+}
+.btn1{
+    background-color: #544cea;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    width: 70px;
+    height: 35px;
+}
+.btn2{
+    background-color: #fa3048;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    width: 70px;
+    height: 35px;
+}
+.btn{
+    margin: 18px 4px 18px 49px
+}
+.card {
+    height: 170px;
+    width: 500px;
+    border-style: solid;
+    background: beige;
+}
+  .container {
+    padding: 2px 16px;
+  }
+  .img-width {
+    width: 168px;
+  }
+  .maindiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
